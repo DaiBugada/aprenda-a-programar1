@@ -1,0 +1,50 @@
+1  git --version
+    2  node --version
+    3  ls
+    4  clear
+    5  pwd
+    6  ls
+    7  clear
+    8  ls
+    9  clear
+   10  ls
+   11  cd
+   12  cd desktop
+   13  pwd
+   14  ls
+   15  mkdir tarefa-dia-1
+   16  pwd
+   17  cd dia-1-primeiros-passos
+   18  mkdir tarefa-dia-1
+   19  cd ..
+   20  cd dia-1-primeiros-passos
+   21  mkdir tarefa-dia-1
+   22  cd..
+   23  clear
+   24  cd desktop
+   25  pwd
+   26  cd..
+   27  cd ..
+   28  clear
+   29  ls
+   30  mkdir tarefa-dia-1
+   31  cd ..
+   32  clear
+   33  cd desktop
+   34  ls
+   35  clear
+   36  ls
+   37  cd dia-1-primeiros-passos
+   38  mkdir tarefa-dia-1
+   39  cd tarefa-dia-1
+   40  mkdir resumo-dia-1.md
+   41  cd resumo-dia-1.md/
+   42  head -5 -v/etc/group
+   43  head-5
+   44  head -5 Tarefa-dia-1.md
+   45  grep programação Tarefa-dia-1.md
+   46  grep -v-
+   47  grep - Tarefa-dia-1.md
+   48  grep -v- Tarefa-dia-1.md
+   49  grep -v - Tarefa-dia-1.md
+   50  history
